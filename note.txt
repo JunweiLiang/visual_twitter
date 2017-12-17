@@ -1,0 +1,6 @@
+
+
+1. install scrapy
+
+	sudo pip install --upgrade pyopenssl
+	sudo pip install scrapy

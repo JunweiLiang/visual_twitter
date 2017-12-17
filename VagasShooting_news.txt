@@ -1,0 +1,9 @@
+cnn http://www.cnn.com/2017/10/13/us/las-vegas-shooting-investigation/index.html
+businessinsider http://www.businessinsider.com/timeline-shows-exactly-how-the-las-vegas-massacre-unfolded-2017-10/#1025-pm-the-police-issue-active-shooter-alert-locally-12
+fox http://www.foxnews.com/us/2017/10/05/las-vegas-shooting-timeline-events.html
+latimes http://www.latimes.com/nation/la-na-vegas-shooting-timeline-revised-20171009-story.html
+huffingtonpost https://www.huffingtonpost.com/entry/las-vegas-shooting-timeline-revised-again_us_59e1883de4b0a52aca182e0a
+reuters https://www.reuters.com/article/us-lasvegas-shooting/las-vegas-gunman-fired-on-guard-and-crowd-at-about-same-time-mgm-idUSKBN1CH33Z
+usatoday https://www.usatoday.com/story/news/2017/10/07/how-police-zeroed-las-vegas-gunman/737178001/
+bbc http://www.bbc.com/news/world-us-canada-41599529
+billboard https://www.billboard.com/articles/news/7989241/las-vegas-shooting-timeline-route-91
