@@ -4,3 +4,6 @@
 
 	sudo pip install --upgrade pyopenssl
 	sudo pip install scrapy
+
+2. run
+	python script/get_news.py VagasShooting_news.txt vagas2017
